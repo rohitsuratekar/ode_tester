@@ -1,5 +1,4 @@
-#May 2015
-#Testing ODE function
+#General Testing ODE function
 
 import math
 import initial_conditions
